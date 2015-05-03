@@ -1,0 +1,13 @@
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\SeqSlabExample.exe.config
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\SeqSlabExample.exe
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\SeqSlabExample.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Newtonsoft.Json.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Seq.Client.Slab.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Seq.Client.Slab.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Seq.Client.Slab.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\bin\Release\Newtonsoft.Json.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\obj\Release\SeqSlabExample.csprojResolveAssemblyReference.cache
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\obj\Release\SeqSlabExample.exe
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqSlabExample\obj\Release\SeqSlabExample.pdb

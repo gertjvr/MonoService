@@ -1,0 +1,17 @@
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\NLog.config
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\SeqNLogExample.exe.config
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\SeqNLogExample.exe
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\SeqNLogExample.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\NLog.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\Seq.Client.NLog.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\Seq.Client.NLog.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\Seq.Client.NLog.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\NLog.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\obj\Release\SeqNLogExample.csprojResolveAssemblyReference.cache
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\obj\Release\SeqNLogExample.exe
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\obj\Release\SeqNLogExample.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\System.Net.Http.Extensions.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\System.Net.Http.Primitives.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\System.Net.Http.Extensions.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\bin\Release\System.Net.Http.Primitives.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\example\SeqNLogExample\obj\Release\SeqNLogExample.csproj.App.config

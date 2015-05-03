@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Seq.Client.NLog</name>
+    </assembly>
+    <members>
+        <member name="T:Seq.Client.NLog.SeqPropertyItem">
+            <summary>
+            Configures a property that enriches events sent to Seq.
+            </summary>
+        </member>
+        <member name="M:Seq.Client.NLog.SeqPropertyItem.#ctor">
+            <summary>
+            Initialize parameter defaults.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqPropertyItem.Name">
+            <summary>
+            The name of the property.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqPropertyItem.Value">
+            <summary>
+            The value of the property.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqPropertyItem.As">
+            <summary>
+            Either "string", which is the default, or "number", which
+            will cause values of this type to be converted to numbers for
+            storage.
+            </summary>
+        </member>
+        <member name="T:Seq.Client.NLog.SeqTarget">
+            <summary>
+            Writes events over HTTP to a Seq server.
+            </summary>
+        </member>
+        <member name="M:Seq.Client.NLog.SeqTarget.#ctor">
+            <summary>
+            Initializes the target.
+            </summary>
+        </member>
+        <member name="M:Seq.Client.NLog.SeqTarget.Write(NLog.Common.AsyncLogEventInfo[])">
+            <summary>
+            Writes an array of logging events to Seq.
+            </summary>
+            <param name="logEvents">Logging events to be written.</param>
+        </member>
+        <member name="M:Seq.Client.NLog.SeqTarget.Write(NLog.LogEventInfo)">
+            <summary>
+            Writes logging event to Seq.
+            </summary>
+            <param name="logEvent">Logging event to be written.
+                        </param>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqTarget.ServerUrl">
+            <summary>
+            The address of the Seq server to write to.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqTarget.ApiKey">
+            <summary>
+            A Seq <i>API key</i> that authenticates the client to the Seq server.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.NLog.SeqTarget.Properties">
+            <summary>
+            A list of properties that will be attached to the events.
+            </summary>
+        </member>
+    </members>
+</doc>

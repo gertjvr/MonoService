@@ -1,0 +1,32 @@
+﻿﻿#!/bin/bash
+
+# cp OwinSample /etc/init.d/OwinSample
+# chmod 755 /etc/init.d/OwinSample
+# update-rc.d /etc/init.d/OwinSample defaults
+
+DIR=/home/pi/OwinSample
+MONO=/usr/bin/mono
+
+test -x $MONO || exit 0
+
+function start_app {
+	"$MONO" "$DIR/OwinSample.exe" 1>>"/var/log/mono/OwinSample.log" 2>&1 & echo $! > "/var/pids/mono/OwinSample.pid"
+}
+
+function stop_app {
+	sudo kill `cat /var/pids/mono/OwinSample.pid`
+}
+
+case $1 in
+   start)
+      start_app ;;
+    stop)
+      stop_app ;;
+    restart)
+      stop_app
+      start_app
+      ;;
+    *)
+      echo "usage: OwinSample {start|stop}" ;;
+esac
+exit 0

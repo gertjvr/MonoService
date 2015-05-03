@@ -1,0 +1,5 @@
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Release\OwinSample.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Release\OwinSample.MessageContracts.pdb
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Release\Nimbus.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\obj\Release\OwinSample.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\obj\Release\OwinSample.MessageContracts.pdb

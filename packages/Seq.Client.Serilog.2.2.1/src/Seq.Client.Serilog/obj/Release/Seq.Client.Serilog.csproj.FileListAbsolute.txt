@@ -1,0 +1,12 @@
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Seq.Client.Serilog.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Seq.Client.Serilog.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Seq.Client.Serilog.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.FullNetFx.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.FullNetFx.pdb
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\bin\Release\Serilog.FullNetFx.xml
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\obj\Release\Seq.Client.Serilog.csprojResolveAssemblyReference.cache
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\obj\Release\Seq.Client.Serilog.dll
+C:\TeamCity\buildAgent\work\98a5da83bb08b935\src\Seq.Client.Serilog\obj\Release\Seq.Client.Serilog.pdb

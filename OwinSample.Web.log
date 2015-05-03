@@ -1,0 +1,32 @@
+
+Unhandled Exception:
+System.Reflection.ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.TypeProviders.AssemblyScanningTypeProvider.<Get>b__0 (System.Reflection.Assembly a) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectManyIterator>c__Iterator12`2[System.Reflection.Assembly,System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectIterator>c__Iterator10`2[System.Type,ConfigInjector.IConfigurationSetting].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.ToArray[IConfigurationSetting] (IEnumerable`1 source) [0x00000] in <filename unknown>:0 
+  at ConfigInjector.SettingsRegistrationService.LoadConfigurationSettings () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.SettingsRegistrationService.RegisterConfigurationSettings () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.Configuration.DoYourThingConfigurationConfigurator.DoYourThing () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.QuickAndDirty.DefaultStaticSettingReaderStrategy.ReadSettings () [0x00000] in <filename unknown>:0 
+  at System.Lazy`1[System.Collections.Generic.IList`1[ConfigInjector.IConfigurationSetting]].InitValue () [0x00000] in <filename unknown>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.Reflection.ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetExportedTypes () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.TypeProviders.AssemblyScanningTypeProvider.<Get>b__0 (System.Reflection.Assembly a) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectManyIterator>c__Iterator12`2[System.Reflection.Assembly,System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateWhereIterator>c__Iterator1E`1[System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectIterator>c__Iterator10`2[System.Type,ConfigInjector.IConfigurationSetting].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.ToArray[IConfigurationSetting] (IEnumerable`1 source) [0x00000] in <filename unknown>:0 
+  at ConfigInjector.SettingsRegistrationService.LoadConfigurationSettings () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.SettingsRegistrationService.RegisterConfigurationSettings () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.Configuration.DoYourThingConfigurationConfigurator.DoYourThing () [0x00000] in <filename unknown>:0 
+  at ConfigInjector.QuickAndDirty.DefaultStaticSettingReaderStrategy.ReadSettings () [0x00000] in <filename unknown>:0 
+  at System.Lazy`1[System.Collections.Generic.IList`1[ConfigInjector.IConfigurationSetting]].InitValue () [0x00000] in <filename unknown>:0 

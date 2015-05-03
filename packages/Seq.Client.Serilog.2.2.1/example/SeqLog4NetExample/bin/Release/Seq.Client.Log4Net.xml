@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Seq.Client.Log4Net</name>
+    </assembly>
+    <members>
+        <member name="T:Seq.Client.Log4Net.SeqAppender">
+            <summary>
+            A log4net <see cref="T:log4net.Appender.IAppender"/> that writes events synchronously over
+            HTTP to the Seq event server.
+            </summary>
+        </member>
+        <member name="M:Seq.Client.Log4Net.SeqAppender.SendBuffer(log4net.Core.LoggingEvent[])">
+            <summary>
+            Send events to Seq.
+            </summary>
+            <param name="events">The buffered events to send.</param>
+        </member>
+        <member name="P:Seq.Client.Log4Net.SeqAppender.ServerUrl">
+            <summary>
+            The address of the Seq server to write to. Specified in configuration
+            like &lt;serverUrl value="http://my-seq:5341" /&gt;.
+            </summary>
+        </member>
+        <member name="P:Seq.Client.Log4Net.SeqAppender.ApiKey">
+            <summary>
+            A Seq <i>API key</i> that authenticates the client to the Seq server. Specified in configuration
+            like &lt;apiKey value="A1A2A3A4A5A6A7A8A9A0" /&gt;.
+            </summary>
+        </member>
+    </members>
+</doc>

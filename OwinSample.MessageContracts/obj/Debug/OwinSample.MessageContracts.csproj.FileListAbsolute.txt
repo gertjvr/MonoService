@@ -1,0 +1,6 @@
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Debug\OwinSample.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Debug\OwinSample.MessageContracts.pdb
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\bin\Debug\Nimbus.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\obj\Debug\OwinSample.MessageContracts.csprojResolveAssemblyReference.cache
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\obj\Debug\OwinSample.MessageContracts.dll
+C:\Users\gertjvr\Documents\GitHub\OwinSample\OwinSample.MessageContracts\obj\Debug\OwinSample.MessageContracts.pdb
